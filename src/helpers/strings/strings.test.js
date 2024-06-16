@@ -1,4 +1,4 @@
-import {toLower, toUpper, strLen} from './strings'
+import {toLower} from './strings'
 
 describe('strings', () => {
     describe('toLower', () => {
